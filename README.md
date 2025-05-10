@@ -52,4 +52,4 @@ Atualmente, estou em transição de carreira e estudando diariamente para consol
 
 ---
 
-> “A jornada é tão importante quanto o destino.” — Márcio Sousa
+> **“A jornada é tão importante quanto o destino.”** — Marcio Sousa
