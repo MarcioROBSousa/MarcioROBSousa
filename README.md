@@ -7,8 +7,8 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXQ0OHdhcWFmem45bjdmYXp1NWVwenQ1NTRlNGlobnRmcThtMHA0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MhponTiJ1jB8iHGL7F/giphy.gif" alt="Marcio Sousa - Desenvolvedor Fullstack">
+<p align="center" >
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXQ0OHdhcWFmem45bjdmYXp1NWVwenQ1NTRlNGlobnRmcThtMHA0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MhponTiJ1jB8iHGL7F/giphy.gif" alt="Marcio Sousa - Desenvolvedor Fullstack" width = "400px">
 </p>
 
   
