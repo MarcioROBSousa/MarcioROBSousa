@@ -52,4 +52,4 @@ Atualmente, estou em transição de carreira e estudando diariamente para consol
 
 ---
 
-> **“A jornada é tão importante quanto o destino.”** — Marcio Sousa
+> **“A meta é olhar pro céu e dizer: "Deus eu consegui graças a TI”** — Marcio Sousa
