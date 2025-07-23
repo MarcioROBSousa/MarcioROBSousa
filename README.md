@@ -31,5 +31,5 @@
 ---
 
 <!-- Rodapé animado -->
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Obrigado%20pela%20visita!%20🚀&fontSize=20)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Obrigado%20pela%20visita!%20💖&fontSize=20&fontColor=aafdff)
 
