@@ -1,4 +1,4 @@
-<!-- Cabeçalho animado com Pacman -->
+<!-- Cabeçalho animado -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Olá!%20Eu%20sou%20o%20Marcio%20Sousa&fontSize=30&animation=fadeIn)
 
 ## 🧑‍💻 Sobre mim
